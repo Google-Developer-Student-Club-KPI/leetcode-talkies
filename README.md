@@ -44,7 +44,8 @@ The LeetCode Talkies repository is open to contributions from all participants. 
 
 ## Let's Begin the Talkies!
 
-Are you excited to level up your coding skills and be part of an enthusiastic community of problem solvers? [Join us in the LeetCode Talkies sessions at the Google Developer Student Club Discord](https://t.me/dsc_kpi/460), and together, we'll unravel the mysteries of coding patterns and unlock your full potential as a problem-solving maestro!
+Are you excited to level up your coding skills and be part of an enthusiastic community of problem solvers? [Join us in the LeetCode Talkies sessions at the Google Developer Student Club Discord]
+(https://t.me/dsc_kpi/460), and together, we'll unravel the mysteries of coding patterns and unlock your full potential as a problem-solving maestro!
 
 Stay tuned for updates, session announcements, and more. Let's dive in and make coding challenges a piece of cake! 🍰🚀
 
